@@ -14,7 +14,9 @@ import {
 
 const OrderSection = () => {
   return (
-    <div className="h-148 relative ">
+    <div className="overflow-hidden">
+
+    <div className="h-160 relative ">
       <div className="absolute left-0 -top-44 h-auto w-[70%] translate-x-[-70%]">
         <img
           src={LEFT_SIDE_LINE}
@@ -103,6 +105,7 @@ const OrderSection = () => {
           />
         </div>
       </div>
+    </div>
     </div>
   );
 };

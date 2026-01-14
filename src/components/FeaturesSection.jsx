@@ -4,7 +4,7 @@ import FeaturesCard from "./FeaturesCard";
 
 const FeaturesSection = () => {
   return (
-    <div className="h-120 bg-linear-to-b from-chablis to-white mt-30 ">
+    <div className="h-120 bg-linear-to-b from-chablis to-white ">
       <div className="relative text-center flex flex-col items-center justify-center py-28">
         <span className=" text-carnation text-center font-semibold text-6xl ">
           What’s waiting for you <br />
