@@ -67,3 +67,12 @@ export const OFFERS_IMG_URL =
 
 export const COLLECTIONS_IMG_URL =
   "https://b.zmtcdn.com/data/o2_assets/5e973dd10c387878009c66d625ae541a1746550690.png";
+
+export const FREE_DELIVERY_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/bc9d2a579285cbdaa101b8fe2ba68f601741779645.png";
+
+export const SCOTTER_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/d668ed26c7d4771318d0aa03b3f905e71741779899.png";
+
+export const GOLD_STAR_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/e7a502b732de9cd0d5ceca82306137ca1743059837.png";
