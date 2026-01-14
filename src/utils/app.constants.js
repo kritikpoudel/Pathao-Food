@@ -28,7 +28,7 @@ export const TOMATO_IMG_URL =
 
 export const LEAVES_IMG_URL =
   "https://b.zmtcdn.com/data/o2_assets/70b50e1a48a82437bfa2bed925b862701742892555.png";
-  
+
 export const RESTAURANT_IMG_URL =
   "https://b.zmtcdn.com/data/o2_assets/d19ec60986487a77bcb026e5efc3325f1742908200.png";
 
@@ -37,3 +37,33 @@ export const CITIES_IMG_URL =
 
 export const ORDER_DELIVERED_IMG_URL =
   "https://b.zmtcdn.com/data/o2_assets/713443cc5944ce4284d7e49e75e2aacf1742466222.png";
+
+export const PHONE_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/3f7e2757e62fd22592b879bd56b666011742294630.png";
+
+export const CALENDAR_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/cc1caf220c91be38dd94cce12b416fcd1746550226.png";
+
+export const HEALTHY_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/d0f1639403f80f8f2c19e0d538222e661742455804.png";
+
+export const VEG_MODE_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/82f145180cd6f920a8a8617dda366a0a1742455963.png";
+
+export const NON_VEG_IMG_URL =
+  "https://img.icons8.com/?size=50&id=43891&format=png&color=FA5252";
+
+export const PARTY_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/5e7aab0f183b36fc12c29279f0cb55181742462245.png";
+
+export const GIFT_CARDS_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/867f86a10503998e437963bb37c451591742455764.png";
+
+export const GOURMET_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/6e27c9acde6045c272a28e6eb275727e1742455789.png";
+
+export const OFFERS_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/813952c961fd13588cb71867d84ea7dc1742455815.png";
+
+export const COLLECTIONS_IMG_URL =
+  "https://b.zmtcdn.com/data/o2_assets/5e973dd10c387878009c66d625ae541a1746550690.png";
