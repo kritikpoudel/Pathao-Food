@@ -76,3 +76,6 @@ export const SCOTTER_IMG_URL =
 
 export const GOLD_STAR_IMG_URL =
   "https://b.zmtcdn.com/data/o2_assets/e7a502b732de9cd0d5ceca82306137ca1743059837.png";
+  
+export const CARD_LOGO =
+  "https://b.zmtcdn.com/data/o2_assets/9207cd0fc68c4ac55cfd3bfa00c02a351739777699.png";

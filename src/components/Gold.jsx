@@ -3,7 +3,7 @@ import { FREE_DELIVERY_IMG_URL, GOLD_STAR_IMG_URL, PATHAO_LOGO, SCOTTER_IMG_URL 
 
 const Gold = () => {
   return (
-    <div className="relative overflow-hidden overflow-x-hidden  py-[15vw]">
+    <div className="relative overflow-hidden overflow-x-hidden  pt-[15vw]">
       <div className="relative flex w-full flex-col items-center justify-center bg-black px-10 py-[13vw] text-white">
         <img
           src={GOLD_STAR_IMG_URL}
@@ -99,7 +99,6 @@ const Gold = () => {
           </svg>
         </div>
       </div>
-      
     </div>
   );
 };
