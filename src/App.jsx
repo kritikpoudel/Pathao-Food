@@ -5,6 +5,7 @@ import FeaturesSection from './components/FeaturesSection'
 import Gold from './components/Gold'
 import Company from './components/Company'
 import Download from './components/Download'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Gold/>
       <Company/>
       <Download/>
+      <Footer/>
     </div>
   )
 }
